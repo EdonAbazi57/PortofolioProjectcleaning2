@@ -183,9 +183,7 @@ DROP TEMPORARY TABLE IF EXISTS TempDuplicateRows;
 select TempDuplicateRows from housingdata;
 
 
--- Select all columns from the "NashvilleHousing" table (if needed).
-SELECT *
-FROM housingdata;
+
 
 
 
